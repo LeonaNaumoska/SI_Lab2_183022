@@ -5,3 +5,4 @@
 # Control Flow Graph (Прашање 2)
 # 
 # 
+# 183022_kod6.png
